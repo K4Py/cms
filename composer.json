@@ -1,0 +1,6 @@
+{
+    "require": {
+        "steampixel/simple-php-router": "*",
+        "twig/twig": "^3.6"
+    }
+}
